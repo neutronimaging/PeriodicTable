@@ -1,0 +1,9 @@
+name: periodictable
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - plotly
+  - numpy
+  - pandas
