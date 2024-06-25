@@ -19,7 +19,8 @@ requires = [
   "setuptools >= 40.6.0",
   "wheel",
   "toml",
-  "versioningit"
+  "versioningit",
+  "python-kaleido"
 ]
 build-backend = "setuptools.build_meta"
 
